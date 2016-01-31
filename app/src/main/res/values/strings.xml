@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Material Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Fonts -->
+    <string name="font_gypsy_curse">fonts/GypsyCurse.ttf</string>
+    <string name="font_swamp_witch">fonts/SwampWitch.ttf</string>
+    <string name="font_sans_thin">fonts/uni_sans_thin.ttf</string>
+    <string name="font_helios_thin">fonts/helioscondc.otf</string>
+</resources>
